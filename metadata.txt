@@ -1,0 +1,3 @@
+metadata
+commit=$Format:%H$
+version=${version}
